@@ -47,10 +47,10 @@
 ---
 
 ## 📫 Connect with Me
-🌐 **Portfolio:** *coming soon*  
-🐦 [Twitter/X](https://twitter.com/)  
-💼 [LinkedIn](https://linkedin.com/)  
-📧 **Email:** alfaridza@example.com *(ganti dengan email Anda)*  
+🌐 **Portfolio:** [alfaridza.my.id](http://alfaridza.my.id/) *(on maintenance)*  
+💼 [LinkedIn](https://www.linkedin.com/in/alfaridzahamdani/)  
+🎨 [Dribbble](https://dribbble.com/Alfaridza)  
+📧 **Email:** [alfaridzah@gmail.com](mailto:alfaridzah@gmail.com)
 
 ---
 
