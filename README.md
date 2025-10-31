@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alfaridza!
 
-🎨 **UI/UX Designer & Web Developer**  
+🎨 **Web Developer**  
 💻 Passionate about creating intuitive and modern digital experiences.  
 🚀 Currently exploring how design and code work together to build impactful products.
 
