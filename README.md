@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Connect with Me
-🌐 **Portfolio:** [alfaridza.my.id](http://alfaridza.my.id/) *(on maintenance)*  
+🌐 **Portfolio:** [alfaridza.my.id](https://alfarz28.github.io/)
 💼 [LinkedIn](https://www.linkedin.com/in/alfaridzahamdani/)  
 🎨 [Dribbble](https://dribbble.com/Alfaridza)  
 📧 **Email:** [alfaridzah@gmail.com](mailto:alfaridzah@gmail.com)
