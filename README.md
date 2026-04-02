@@ -40,12 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Alfaridza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfaridzaHamdani&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaridzaHamdani&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 🌐 **Portfolio:** [alfaridza.my.id](http://alfaridza.my.id/) *(on maintenance)*  
 💼 [LinkedIn](https://www.linkedin.com/in/alfaridzahamdani/)  
