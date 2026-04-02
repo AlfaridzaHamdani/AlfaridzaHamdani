@@ -6,10 +6,9 @@
 
 ---
 
-## 🌟 About Me
-- 💼 I’m currently working on **frontend projects**.  
-- 🎯 My goal is to become a **full-stack product creator** — from concept to launch.  
-- 📚 I’m currently learning Machine Learning.  
+## 🌟 About Me  
+- 🎯 My goal is to become a **full-stack product creator**
+- 📚 I’m currently learning CTF.
 - 🧠 I love solving problems through clean design and meaningful interactions.  
 
 ---
